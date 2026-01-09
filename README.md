@@ -1,1 +1,1 @@
-# aws-bedrock-rag-llm
+# aws-bedrock-terraform
